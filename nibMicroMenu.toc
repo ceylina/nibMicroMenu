@@ -1,0 +1,19 @@
+## Interface: 70200
+## Title: nib MicroMenu
+## Author: Screamie (Screamlord @ Malygos EU)
+## FormerAuthor: Nibelheim, lemmie13
+## Notes: Text based Micro Menu
+## Version: 0.9.3
+## SavedVariables: nibMicroMenuDB
+
+## X-WoWI-ID: 16819
+
+Embeds.xml
+
+Locale\enUS.lua
+Locale\frFR.lua
+Locale\deDE.lua
+Locale\zhTW.lua
+
+Core.lua
+Config.lua
